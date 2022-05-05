@@ -8,8 +8,10 @@ def introduce(age = 22, name = 'Sahil'):
     print('I am', age, 'years old')
     print()
 
-introduce('Sahil')
-introduce(23)
+
+introduce('Rishi')
+# introduce(23)
+# introduce(25, 'Rishi')
 
 # Does not allow default arguments in the start
 """
