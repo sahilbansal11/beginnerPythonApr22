@@ -31,6 +31,7 @@ print('========')
 print('Quiz: 5')
 my_teams = ['Raptors', 'Heat', 'Nets']
 your_teams = my_teams
+
 my_teams[1] = 'Lakers'
 print('My teams are:', my_teams)
 print('Your teams are:', your_teams)
