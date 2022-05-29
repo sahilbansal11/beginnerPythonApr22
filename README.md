@@ -2,6 +2,9 @@
 
 This repository contains the programs in Python illustrated during the sessions.
 
+## PDF Notes:
+[Drive Link](https://drive.google.com/drive/folders/1E8zu68eaukeH46beJL-bgf7fRnTduRv3?usp=sharing)
+
 ## Session wise Codes
 | Session | Title                       | Code Folder                              |
 |---------|-----------------------------|------------------------------------------|
@@ -21,5 +24,5 @@ This repository contains the programs in Python illustrated during the sessions.
 | 14.     | Strings                     | [Session 14](strings/)                   |
 | 15.     | OOP                         | [Session 15](objectOrientedProgramming/) |
 | 16.     | Dictionaries and Sets       | [Session 16](dictionariesAndSets/)       |
-| 17.     | Problem Solving - 2         | TBA                                      |
+| 17.     | Problem Solving - 2         | [Session 17](problemSolving2/)           |
 
